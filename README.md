@@ -1,3 +1,6 @@
+
+![sc-hotel](https://github.com/FayeVinyl/sc-hotel-booking-ui/assets/19337086/c5543c0b-1436-43b3-a974-b7d60a67249e)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
